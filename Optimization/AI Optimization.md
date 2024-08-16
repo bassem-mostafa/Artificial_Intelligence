@@ -1,0 +1,11 @@
+- [ ] Temporal Segment Network (TSN)
+- [ ] Temporal Shift Module (TSM)
+- [ ] Deformable Convolution
+- [ ] Dilated convolution
+- [ ] Depth-wise convolution
+- [ ] Generalized Efficient Layer Aggregation Network (GELAN)
+- [ ] Programmable Gradient Information (PGI)
+- [ ] Reparameterization (Rep)
+- [ ] Batch Normalization (BN)
+- [ ] Squeeze & Excitation
+- [ ] Patches
