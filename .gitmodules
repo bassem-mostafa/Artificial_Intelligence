@@ -1,0 +1,3 @@
+[submodule "PyTorch"]
+	path = PyTorch
+	url = https://github.com/bassem-mostafa/PyTorch.git
