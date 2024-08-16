@@ -1,5 +1,5 @@
-[AI Optimization](<AI Optimization>)
-[Terminologies](Terminologies)
+[AI Optimization](<AI Optimization.md>)
+[Terminologies](Terminologies.md)
 
 - [ ] Neural Architecture Search (NAS)
 - [ ] Batch normalization
