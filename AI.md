@@ -1,4 +1,4 @@
-[AI Optimization](<AI Optimization.md>)
+[AI Optimization](<Optimization/AI Optimization.md>)
 [Terminologies](Terminologies.md)
 
 - [ ] Neural Architecture Search (NAS)
